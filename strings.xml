@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RealityFX AI</string>
+    <string name="tagline">رفيق تحسين الصورة للألعاب</string>
+    <string name="nav_settings">الإعدادات</string>
+    <string name="nav_back">رجوع</string>
+
+    <string name="section_profile">ملف اللعبة</string>
+    <string name="profile_default_name">افتراضي</string>
+    <string name="profile_new_name">ملف %1$d</string>
+    <string name="profile_save">حفظ في الملف</string>
+    <string name="profile_new">جديد</string>
+    <string name="profile_delete">حذف</string>
+    <string name="saved_toast">تم الحفظ في الملف</string>
+
+    <string name="section_preview">قبل / بعد</string>
+    <string name="preview_hint">اسحب الخط الفاصل للمقارنة. صورة عينة تُعالج على هذا الجهاز.</string>
+    <string name="preview_before">قبل</string>
+    <string name="preview_after">بعد</string>
+    <string name="fps_label">معدل الإطارات (مقاس داخل RealityFX فقط)</string>
+    <string name="fps_value">%1$.1f إطار/ث</string>
+    <string name="fps_measuring">جارٍ القياس…</string>
+
+    <string name="section_controls">التحسين</string>
+    <string name="sharpness">الحدة</string>
+    <string name="contrast">التباين</string>
+    <string name="saturation">التشبع</string>
+    <string name="brightness">السطوع</string>
+    <string name="glow">التوهج</string>
+    <string name="glow_battery_note">التوهج متوقف في وضع توفير البطارية.</string>
+
+    <string name="section_filter">فلتر الألوان</string>
+    <string name="filter_realistic">واقعي</string>
+    <string name="filter_cinematic">سينمائي</string>
+    <string name="filter_vivid">حيوي</string>
+    <string name="filter_cool">بارد</string>
+
+    <string name="reset">إعادة الضبط الافتراضي</string>
+
+    <string name="settings_title">الإعدادات</string>
+    <string name="section_language">اللغة</string>
+    <string name="lang_english">English</string>
+    <string name="lang_arabic">العربية</string>
+    <string name="section_theme">المظهر</string>
+    <string name="theme_dark">داكن</string>
+    <string name="theme_amoled">أسود AMOLED</string>
+    <string name="section_performance">وضع الأداء</string>
+    <string name="mode_battery">توفير البطارية</string>
+    <string name="mode_quality">الجودة</string>
+    <string name="mode_battery_desc">معالجة بحجم أصغر، بدون توهج، وتحديث أبطأ.</string>
+    <string name="mode_quality_desc">معالجة بحجم أكبر مع كل التأثيرات.</string>
+    <string name="show_fps">إظهار معدل الإطارات</string>
+
+    <string name="section_privacy">الخصوصية</string>
+    <string name="privacy_summary">يعمل RealityFX AI بالكامل دون اتصال. لا يطلب أي أذونات، ولا يملك وصولاً للإنترنت، ولا يجمع بيانات شخصية، ولا يلتقط شاشتك أبداً. تبقى الملفات والإعدادات على هذا الجهاز.</string>
+    <string name="section_limits">ما الذي يعمل وما الذي لا يعمل</string>
+    <string name="limits_text">يعمل داخل RealityFX\nالحدة والتباين والتشبع والسطوع وفلاتر الألوان والتوهج ووضعا الأداء والجودة وملفات الألعاب والمعاينة قبل/بعد ومعدل الإطارات المقاس وإعادة الضبط تُطبَّق كلها على صورة العينة داخل التطبيق.\n\nلا يغيّر الألعاب الأخرى\nلا يسمح Android لتطبيق عادي بتغيير طريقة رسم تطبيق آخر. فلترة لعبة أخرى مباشرة تتطلب التقاط الشاشة مع تراكب أو خدمة إمكانية، وهي مقيّدة وتستهلك البطارية وتسخّن الهاتف، ولا تعمل مع المحتوى المحمي بـ DRM. لا يفعل RealityFX AI ذلك.\n\nغير مشمول\nNVIDIA DLSS والترقية بالذكاء الاصطناعي وتتبع الأشعة وتوليد الإطارات بالذكاء الاصطناعي والتكامل مع محركات الألعاب. التطبيق لا يقوم بتعديل الهاتف (روت) ولا يحقن أكواداً في الألعاب ولا يعدّل ملفاتها.</string>
+    <string name="section_about">حول</string>
+    <string name="about_text">RealityFX AI الإصدار 1.0. رفيق لمعاينة وضبط تحسين الصورة. التأثيرات معالجة حقيقية للبكسلات تتم على هذا الجهاز.</string>
+</resources>
